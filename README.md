@@ -18,3 +18,6 @@ docker build -t welcome-to-docker .
 docker run -d -p 8088:3000 --name welcome-to-docker welcome-to-docker
 ```
 Open `http://localhost:8088` in your browser.
+
+![image](https://github.com/Ajay-Dhangar/welcome-to-docker/assets/99037494/b8dc1303-06c8-4ee4-961f-cefc3eb41d61)
+
